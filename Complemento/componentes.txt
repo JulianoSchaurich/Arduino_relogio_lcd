@@ -1,0 +1,9 @@
+//COMPONENTES PARA O PROJETO:
+	1: arduino
+	1: lcd 7 segmentos de 4 digitos
+	3: resistores
+	3: ldr
+	1: sensor dht11
+	1: led
+	1: protoboard
+	jumpers para fazer as ligações

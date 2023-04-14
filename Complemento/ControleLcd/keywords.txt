@@ -1,0 +1,6 @@
+ControleLcd	KEYWORD1
+pinosLcd	KEYWORD2
+doisPontos	KEYWORD2
+imprimirLcd	KEYWORD2
+
+
