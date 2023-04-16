@@ -6,3 +6,5 @@ Projeto que mostra o horário, temperatura e humidade ambiente em um lcd de sete
 Uso de ldr's como botões para alterar o display das informações.
 
 Note que não foi usado RTC, logo o horário não é preciso.
+
+Em complemento, DHT é uma biblioteca feita por terceiros.
